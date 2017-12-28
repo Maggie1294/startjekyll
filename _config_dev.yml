@@ -28,8 +28,7 @@ include: ['_pages']
 
 # Build settings
 markdown: kramdown
-# kramdown:
-#   input:GFM
+
 # theme: minima
 # plugins:
 #   - jekyll-feed
